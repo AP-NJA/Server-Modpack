@@ -1,0 +1,19 @@
+{
+  "name": "New selection",
+  "current": "New selection",
+  "boxes": [
+    {
+      "pos1": [
+        -33,
+        77,
+        28
+      ],
+      "pos2": [
+        -33,
+        77,
+        28
+      ],
+      "name": "New selection"
+    }
+  ]
+}

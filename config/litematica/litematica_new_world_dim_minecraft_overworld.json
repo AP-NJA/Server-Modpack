@@ -1,0 +1,93 @@
+{
+  "selections": {
+    "mode": "NORMAL"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "/Users/noahaliaga/Library/Application Support/PrismLauncher/instances/1.20.1(1)/.minecraft/schematics/Auto-Smelter.litematic",
+        "name": "Auto-Smelter",
+        "origin": [
+          -42,
+          56,
+          1
+        ],
+        "rotation": "CLOCKWISE_90",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16757504,
+        "verifier_type": "all",
+        "material_list": {
+          "type": "all",
+          "sort_criteria": "COUNT_TOTAL",
+          "sort_reverse": false,
+          "hide_available": false,
+          "multiplier": 1
+        },
+        "placements": [
+          {
+            "name": "Auto-Smelter",
+            "placement": {
+              "pos": [
+                0,
+                5,
+                0
+              ],
+              "name": "Auto-Smelter",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ],
+    "selected": 0,
+    "origin_selected": true
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "SCHEMATIC_PLACEMENT",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "y",
+    "layer_single": 0,
+    "layer_above": 0,
+    "layer_below": 0,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "Auto-Smelter",
+    "current": "Auto-Smelter",
+    "boxes": [
+      {
+        "pos1": [
+          -46,
+          61,
+          -6
+        ],
+        "pos2": [
+          -29,
+          56,
+          -3
+        ],
+        "name": "Auto-Smelter"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}

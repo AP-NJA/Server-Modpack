@@ -1,0 +1,111 @@
+
+[light_sources]
+	entities = true
+	self = true
+	block_entities = true
+	water_sensitive_check = true
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				player = true
+				bat = true
+				cow = true
+				glow_squid = true
+				cat = true
+				pig = true
+				sheep = true
+				wolf = true
+				horse = true
+				chicken = true
+				chest_minecart = true
+				item = true
+				iron_golem = true
+				squid = true
+				turtle = true
+				bee = true
+				donkey = true
+				experience_orb = true
+				salmon = true
+				spider = true
+				enderman = true
+				creeper = true
+				zombie = true
+				skeleton = true
+				zombie_villager = true
+				witch = true
+				armor_stand = true
+				slime = true
+				dolphin = true
+				tropical_fish = true
+				cod = true
+				pufferfish = true
+				egg = true
+				villager = true
+				drowned = true
+				giant = true
+				trident = true
+				llama = true
+				rabbit = true
+				camel = true
+				parrot = true
+				axolotl = true
+				polar_bear = true
+				arrow = true
+				trader_llama = true
+				wandering_trader = true
+				goat = true
+				ocelot = true
+				panda = true
+				fox = true
+				tnt_minecart = true
+				item_frame = true
+				glow_item_frame = true
+				pillager = true
+				silverfish = true
+				boat = true
+				lightning_bolt = true
+				husk = true
+				warden = true
+				experience_bottle = true
+				ender_pearl = true
+				zombified_piglin = true
+				cave_spider = true
+				hopper_minecart = true
+				fishing_bobber = true
+				llama_spit = true
+				potion = true
+				area_effect_cloud = true
+				spectral_arrow = true
+				snowball = true
+
+			[light_sources.settings.entities.simplyswords]
+				battlestandard = true
+				battlestandarddark = true
+
+			[light_sources.settings.entities.fallingtrees]
+				tree = true
+
+			[light_sources.settings.entities.impaled]
+				pitchfork = true
+				elder_trident = true
+				soulfork = true
+
+			[light_sources.settings.entities.pickyourpoison]
+				poison_dart_frog = true
+
+			[light_sources.settings.entities.gateofbabylon]
+				boomerang = true
+
+			[light_sources.settings.entities.enchancement]
+				brimstone = true
+				ice_shard = true
+				grapple_fishing_bobber = true
+				torch = true
+				amethyst_shard = true
+
+			[light_sources.settings.entities.betternether]
+				firefly = true
+

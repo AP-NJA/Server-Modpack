@@ -1,0 +1,124 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "/Users/noahaliaga/Library/Application Support/PrismLauncher/instances/1.20.1(1)/.minecraft/schematics/Double Piston Extender.litematic",
+        "name": "Double Piston Extender",
+        "origin": [
+          -16,
+          56,
+          22
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16757504,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Double Piston Extender",
+            "placement": {
+              "pos": [
+                0,
+                2,
+                0
+              ],
+              "name": "Double Piston Extender",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "/Users/noahaliaga/Library/Application Support/PrismLauncher/instances/1.20.1(1)/.minecraft/schematics/Staircase.litematic",
+        "name": "Staircase",
+        "origin": [
+          -23,
+          56,
+          39
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": false,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 8404597,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Staircase",
+            "placement": {
+              "pos": [
+                10,
+                0,
+                0
+              ],
+              "name": "Staircase",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ],
+    "selected": 1,
+    "origin_selected": true
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "PASTE_SCHEMATIC",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "y",
+    "layer_single": 0,
+    "layer_above": 0,
+    "layer_below": 0,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "Double Piston Extender",
+    "current": "Double Piston Extender",
+    "boxes": [
+      {
+        "pos1": [
+          -1,
+          58,
+          11
+        ],
+        "pos2": [
+          3,
+          56,
+          16
+        ],
+        "name": "Double Piston Extender"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}
